@@ -1,0 +1,8 @@
+{
+  "name": "livetrainstatus",
+  "app_id": "a5a4ddd3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
